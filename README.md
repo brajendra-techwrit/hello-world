@@ -19,6 +19,4 @@ this is a `variable` text.
   | --- | --- | --- |
   | more | more | more |
   
-* italic *
-  
-** Bold **
+* New * ** form **
