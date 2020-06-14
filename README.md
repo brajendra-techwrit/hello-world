@@ -1,7 +1,5 @@
 # hello-world
 
-first repository
-
 Hi all
 
 Brajendra here, this is new to me and i am excitet to learn.
