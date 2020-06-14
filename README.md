@@ -11,14 +11,14 @@ I have done documentation in word but would like to experience in git.
 - three
   - indent
   
-  this is a `variable` text.
+this is a `variable` text.
   
-  > blockquote
+> blockquote
   
   | haeding | header | head |
   | --- | --- | --- |
   | more | more | more |
   
-  * italic *
+* italic *
   
-  ** Bold **
+** Bold **
